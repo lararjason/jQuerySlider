@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #ff0;
+}
+
+#wrapper #photocontainer img {
+  display: none;
+}
+#wrapper #photocontainer img.active {
+  display: block;
+}/*# sourceMappingURL=styles.css.map */
