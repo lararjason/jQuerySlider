@@ -31,6 +31,7 @@ body {
             display: none;
             &.active {
                 display: block;
+                @include slide-in-left;
             }
         }
     }
